@@ -29,21 +29,28 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0094-binary-tree-inorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0101-symmetric-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0101-symmetric-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0101-symmetric-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0101-symmetric-tree) |
+## Linked List
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->

@@ -56,6 +56,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -77,4 +79,8 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

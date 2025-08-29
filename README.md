@@ -60,12 +60,14 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
 ## Math
 |  |

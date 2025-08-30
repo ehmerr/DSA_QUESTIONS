@@ -12,9 +12,11 @@ public:
 
         //initialising the transpose matrix
         vector<vector<int>> transpose(rowsTranspose,vector<int>(colsTranspose,0));
-
+  
+  // we traverse through the transpose matrix
         for(int i=0;i<rowsTranspose;i++){
             for(int j=0;j<colsTranspose;j++){
+                //we swap the elements of positon [i,j] of transpose matrix with elements of position [j,i] of the original matrix
                 transpose[i][j]=matrix[j][i];
             }
         }

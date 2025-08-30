@@ -65,6 +65,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0036-valid-sudoku](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0136-single-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
+| [1677-matrix-diagonal-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +98,5 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
+| [1677-matrix-diagonal-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->

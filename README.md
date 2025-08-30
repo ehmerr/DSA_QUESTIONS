@@ -63,6 +63,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0001-two-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
+| [0078-subsets](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
 | [0898-transpose-matrix](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0898-transpose-matrix) |
@@ -85,6 +86,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
 ## Sorting
@@ -113,6 +115,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |

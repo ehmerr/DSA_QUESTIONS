@@ -99,4 +99,16 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | ------- |
 | [0036-valid-sudoku](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
 | [1677-matrix-diagonal-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1677-matrix-diagonal-sum) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

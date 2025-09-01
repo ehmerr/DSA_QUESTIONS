@@ -16,8 +16,11 @@ public:
          //->loop to check if there are any pending element to print
          //if yes->4 steps-> startingRow print, endingCol print, endingRow print, startingCol print.
 
-while(startRow<=endRow && startCol<=endCol){
 //1. Pushing all the starting row inside the ans
+
+
+
+while(startRow<=endRow && startCol<=endCol){
 
 if(startRow<=endRow){
 for(int col = startCol;col<=endCol;col++){
@@ -47,8 +50,8 @@ for(int row= endRow;row>=startRow;row--){
 startCol++;
 }
 
-}
 
+}
 return ans;
     }
 };

@@ -22,19 +22,19 @@ public:
 
 while(startRow<=endRow && startCol<=endCol){
 
-if(startRow<=endRow){
+//if(startRow<=endRow){
 for(int col = startCol;col<=endCol;col++){
     ans.push_back(matrix[startRow][col]);
 }
 startRow++;
-}
+//}
 
-if(startCol<=endCol){
+//if(startCol<=endCol){
 for(int row= startRow;row<=endRow;row++){
     ans.push_back(matrix[row][endCol]);
 }
 endCol--;
-}
+//}
 
 if(startRow<=endRow){
 for(int col = endCol;col>=startCol;col--){

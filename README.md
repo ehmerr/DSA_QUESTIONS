@@ -68,6 +68,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
 | [0898-transpose-matrix](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1677-matrix-diagonal-sum) |
+| [1917-maximum-average-pass-ratio](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1917-maximum-average-pass-ratio) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +121,12 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0898-transpose-matrix) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1917-maximum-average-pass-ratio) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->

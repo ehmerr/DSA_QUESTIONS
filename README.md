@@ -67,6 +67,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0078-subsets](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0898-transpose-matrix](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1677-matrix-diagonal-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1917-maximum-average-pass-ratio) |
@@ -87,6 +88,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +119,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 ## Backtracking
 |  |
 | ------- |

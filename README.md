@@ -83,6 +83,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | ------- |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |

@@ -98,6 +98,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0078-subsets](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -148,5 +149,10 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->

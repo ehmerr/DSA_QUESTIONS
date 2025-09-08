@@ -39,6 +39,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0100-same-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0820-find-eventual-safe-states) |
 | [1484-linked-list-in-binary-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -53,6 +54,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | ------- |
 | [0100-same-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0101-symmetric-tree) |
+| [0820-find-eventual-safe-states](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0820-find-eventual-safe-states) |
 ## Linked List
 |  |
 | ------- |
@@ -175,4 +177,12 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

@@ -146,6 +146,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | ------- |
 | [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +157,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | ------- |
 | [0054-spiral-matrix](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0898-transpose-matrix) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Greedy
 |  |
 | ------- |
@@ -188,4 +190,8 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0820-find-eventual-safe-states) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->

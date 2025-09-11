@@ -123,6 +123,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
+| [2887-sort-vowels-in-a-string](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Divide and Conquer
@@ -141,6 +142,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+| [2887-sort-vowels-in-a-string](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -81,6 +81,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [1834-minimum-number-of-people-to-teach](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -94,6 +95,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -217,6 +219,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 ## Counting
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |

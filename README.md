@@ -76,6 +76,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0300-longest-increasing-subsequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0898-transpose-matrix](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0898-transpose-matrix) |
 | [1006-vowel-spellchecker](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1006-vowel-spellchecker) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1677-matrix-diagonal-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1677-matrix-diagonal-sum) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -162,6 +163,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | ------- |
 | [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Backtracking
 |  |

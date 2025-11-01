@@ -59,6 +59,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1484-linked-list-in-binary-tree) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [3242-count-elements-with-maximum-frequency](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
@@ -98,6 +100,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [1834-minimum-number-of-people-to-teach](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |

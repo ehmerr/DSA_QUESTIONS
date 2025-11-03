@@ -81,6 +81,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1677-matrix-diagonal-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1677-matrix-diagonal-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1917-maximum-average-pass-ratio) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -160,6 +161,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [1006-vowel-spellchecker](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2429-design-a-food-rating-system](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3462-vowels-game-in-a-string) |
@@ -171,6 +173,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0300-longest-increasing-subsequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Backtracking
 |  |
@@ -187,6 +190,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 ## Greedy
 |  |
 | ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)

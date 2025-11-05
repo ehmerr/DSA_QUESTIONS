@@ -91,6 +91,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [3242-count-elements-with-maximum-frequency](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -201,6 +203,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [1917-maximum-average-pass-ratio](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2429-design-a-food-rating-system) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
 |  |
 | ------- |
@@ -254,4 +257,5 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->

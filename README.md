@@ -41,6 +41,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0144-binary-tree-preorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0820-find-eventual-safe-states) |
 | [1484-linked-list-in-binary-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1484-linked-list-in-binary-tree) |
+| [3863-power-grid-maintenance](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -55,6 +56,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0100-same-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0101-symmetric-tree) |
 | [0820-find-eventual-safe-states](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0820-find-eventual-safe-states) |
+| [3863-power-grid-maintenance](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
 | ------- |
@@ -94,6 +96,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3863-power-grid-maintenance](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +111,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -207,6 +211,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [2429-design-a-food-rating-system](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2429-design-a-food-rating-system) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
 | ------- |
@@ -227,6 +232,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0820-find-eventual-safe-states) |
+| [3863-power-grid-maintenance](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -253,6 +259,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2429-design-a-food-rating-system) |
+| [3863-power-grid-maintenance](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -264,4 +271,8 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [2618-maximize-the-minimum-powered-city](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
 |  |
 | ------- |
@@ -96,6 +97,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -111,6 +113,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -208,6 +211,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [1834-minimum-number-of-people-to-teach](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1917-maximum-average-pass-ratio) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -283,4 +287,8 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->

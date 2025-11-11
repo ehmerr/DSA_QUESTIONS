@@ -78,6 +78,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0162-find-peak-element](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0474-ones-and-zeroes) |
 | [0898-transpose-matrix](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0898-transpose-matrix) |
 | [1006-vowel-spellchecker](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1006-vowel-spellchecker) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1042-minimum-cost-to-merge-stones) |
@@ -174,6 +175,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0474-ones-and-zeroes](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -186,6 +188,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | ------- |
 | [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0474-ones-and-zeroes) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |

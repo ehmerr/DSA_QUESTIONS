@@ -121,6 +121,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -300,4 +301,8 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->

@@ -31,6 +31,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0094-binary-tree-inorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -39,6 +40,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0094-binary-tree-inorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0820-find-eventual-safe-states) |
 | [1484-linked-list-in-binary-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1484-linked-list-in-binary-tree) |
@@ -49,6 +51,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0094-binary-tree-inorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -190,6 +193,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0474-ones-and-zeroes) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1042-minimum-cost-to-merge-stones) |

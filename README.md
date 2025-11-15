@@ -94,6 +94,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2429-design-a-food-rating-system](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2429-design-a-food-rating-system) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -177,6 +178,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0898-transpose-matrix](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1677-matrix-diagonal-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2625-increment-submatrices-by-one) |
 ## String
 |  |
 | ------- |
@@ -283,6 +285,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | ------- |
 | [1042-minimum-cost-to-merge-stones](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1042-minimum-cost-to-merge-stones) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2625-increment-submatrices-by-one) |
 ## Sliding Window
 |  |
 | ------- |

@@ -83,6 +83,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0300-longest-increasing-subsequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0474-ones-and-zeroes) |
 | [0898-transpose-matrix](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0898-transpose-matrix) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [1006-vowel-spellchecker](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1006-vowel-spellchecker) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -171,6 +172,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -203,6 +205,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0124-binary-tree-maximum-path-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0474-ones-and-zeroes) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -266,6 +269,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Game Theory
@@ -319,4 +323,8 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0060-permutation-sequence) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

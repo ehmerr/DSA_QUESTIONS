@@ -111,6 +111,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0001-two-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0290-word-pattern) |
 | [1006-vowel-spellchecker](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -184,6 +185,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0290-word-pattern](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0290-word-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |

@@ -71,6 +71,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | ------- |
 | [0001-two-sum](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
@@ -332,4 +333,8 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0954-maximum-sum-circular-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->

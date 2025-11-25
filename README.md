@@ -120,6 +120,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0290-word-pattern) |
 | [1006-vowel-spellchecker](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -137,6 +138,7 @@ THIS REPO CONTAINS DSA QUESTIONS THAT I HAVE SOLVED AND IT WILL BE UPDATED ACCOR
 | [0060-permutation-sequence](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/0268-missing-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ehmerr/DSA_QUESTIONS/tree/master/1636-number-of-substrings-with-only-1s) |
